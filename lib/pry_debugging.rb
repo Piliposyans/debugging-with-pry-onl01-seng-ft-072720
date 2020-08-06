@@ -1,6 +1,6 @@
- def plus_two = 5
+ def plus_two = "5"
      num + 2
-     puts plus_two
+     puts {plus_two}
      binding.pry 
  end
  
