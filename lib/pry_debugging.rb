@@ -4,4 +4,4 @@
      
  end
  
- plus_two(5)
+ plus_two
