@@ -4,4 +4,4 @@
     
 end
 
-plus_two
+plus_two(num)
